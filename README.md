@@ -1,6 +1,9 @@
 # ECS
 This will provide an easy tutorial on how to host ECS.
 
+# NOTE
+This is just a simplified tutorial, you can install ECS from other github pages, you choose if you want ECS.org, Project X or ECS.com
+
 # HOW TO RUN/BUILD/COMPILE
 
 You will need the following dependencies:
