@@ -52,7 +52,7 @@ Without editing code, the only way to get autoaccepted is to have a Roblox accou
 - At least 1 year account age
 - Either: 20K+ followers, has admin badge, 3 non free roblox made items, 1k place visits, has premium, or 2 past usernames
 
-  Now after this simplified tutorial, you should understand the rest now.
+  # Now after this simplified tutorial, you should understand the rest now.
 
   Once you made the application and then refreshed a second or two later, it should be accepted. Make SURE to name it ```ROBLOX``` in ALL CAPS! Not doing this can cause some issues.
 
