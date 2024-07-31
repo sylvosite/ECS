@@ -8,12 +8,12 @@ This is just a simplified tutorial, you can install ECS from other github pages,
 
 You will need the following dependencies:
 - Windows + WSL or Linux (Currently Windows is more recommended and is easier but if you're hosting a revival for not personal use, you should stick with linux.)
-- PostgreSQL (Version 13+)
-- Redis-Server (WSL or Linux)
-- Node.js (Version 18.XX+)
-- Go/GoLang (1.18+)
-- .NET/dotnet 6.0 (7.0 or above not supported)
-
+- PostgreSQL (Version 13+) https://www.postgresql.org/download/
+- Redis-Server (WSL or Linux) 
+- Node.js (Version 18.XX+) https://nodejs.org/dist/v20.16.0/node-v20.16.0-x64.msi
+- Go/GoLang (1.18+) https://go.dev/dl/go1.22.5.windows-386.msi
+- .NET/dotnet 6.0 (7.0 or above not supported) https://download.visualstudio.microsoft.com/download/pr/0f71eaf1-ce85-480b-8e11-c3e2725b763a/9044bfd1c453e2215b6f9a0c224d20fe/dotnet-sdk-6.0.100-win-x64.exe
+(If these versions don't work out, it's possible i might have given out a later version)
   To download WSL on Windows, please go to Microsoft Store and install Ubuntu and configure there and then install redis from here https://developer.redis.com/create/windows/
 
   Download PostgreSQL from here https://www.postgresql.org/download/ and after install, search after pgadmin on your device.
