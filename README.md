@@ -14,7 +14,7 @@ You will need the following dependencies:
 - Go/GoLang (1.18+)
 - .NET/dotnet 6.0 (7.0 or above not supported)
 
-  To download WSL on Windows, please go to Microsoft Store and install Ubuntu and configure there and then install redit from here https://developer.redis.com/create/windows/
+  To download WSL on Windows, please go to Microsoft Store and install Ubuntu and configure there and then install redis from here https://developer.redis.com/create/windows/
 
   Download PostgreSQL from here https://www.postgresql.org/download/ and after install, search after pgadmin on your device.
   Install node.js, goland and dotnet.
