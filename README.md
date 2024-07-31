@@ -12,7 +12,7 @@ You will need the following dependencies:
 - Redis-Server (WSL or Linux)
 - Node.js (Version 18.XX+)
 - Go/GoLang (1.18+)
-- .NET/dotnet (6, 7 not supported)
+- .NET/dotnet 6.0 (7.0 or above not supported)
 
   To download WSL on Windows, please go to Microsoft Store and install Ubuntu and configure there and then install redit from here https://developer.redis.com/create/windows/
 
