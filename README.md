@@ -7,7 +7,7 @@ This is just a simplified tutorial, you can install ECS from other github pages,
 # HOW TO RUN/BUILD/COMPILE
 
 You will need the following dependencies:
-- Windows + WSL or Linux (Currently Windows is more recommended and is easier)
+- Windows + WSL or Linux (Currently Windows is more recommended and is easier but if you're hosting a revival for not personal use, you should stick with linux.)
 - PostgreSQL (Version 13+)
 - Redis-Server (WSL or Linux)
 - Node.js (Version 18.XX+)
